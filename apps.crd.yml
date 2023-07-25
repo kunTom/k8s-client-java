@@ -16,7 +16,6 @@ spec:
     listKind: AppList
     plural: apps
     singular: app
-  preserveUnknownFields: true
   scope: Namespaced
   versions:
   - name: v1beta1
